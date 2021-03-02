@@ -2,7 +2,7 @@
 Make Cascadia Mono Usable In Original Command Prompt
 
 # Get Cascadia Font
-https://github.com/microsoft/cascadia-code
+https://github.com/microsoft/cascadia-code/releases
 
 # How to apply?
 Double-click `cascadia-font-cmd.reg` then click `Yes` and `OK`.
