@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Console]
+"InsertMode"=dword:00000001
+"QuickEdit"=dword:00000001
+"ScreenBufferSize"=dword:23280050
+"WindowSize"=dword:00180050
+"FontSize"=dword:00110000
+"FontFamily"=dword:00000036
+"FontWeight"=dword:00000190
+"FaceName"="Cascadia Mono"
+"CursorSize"=dword:00000064
+"HistoryBufferSize"=dword:00000019
+"NumberOfHistoryBuffers"=dword:00000004
+"HistoryNoDup"=dword:00000000
+"LineWrap"=dword:00000001
+"FilterOnPaste"=dword:00000001
+"CtrlKeyShortcutsDisabled"=dword:00000000
+"LineSelection"=dword:00000001
+"WindowAlpha"=dword:000000ff
+"ForceV2"=dword:00000001
+"ExtendedEditKey"=dword:00000001
+"CursorType"=dword:00000000
+"CursorColor"=dword:ffffffff
+"InterceptCopyPaste"=dword:00000000
+"TerminalScrolling"=dword:00000000
+
+; Font Face: Cascadia Mono
+; Font Size: 17
